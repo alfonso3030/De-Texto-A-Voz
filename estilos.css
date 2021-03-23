@@ -16,13 +16,13 @@ div {
 
 textarea {
 	padding: 9px;
-	font-size: 28px;
+	font-size: 18px;
 	border: solid 1px rgb(173, 163, 163);
 	width: 80%;
    
 }
 input[type="button"] {
-	width: 15%;
+	width: 22%;
   background-color: rgb(160, 243, 52);
 }
 

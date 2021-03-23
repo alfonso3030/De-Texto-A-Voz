@@ -22,7 +22,7 @@ textarea {
    
 }
 input[type="button"] {
-	width: 22%;
+	width: 20%;
   background-color: rgb(160, 243, 52);
 }
 
@@ -47,6 +47,6 @@ input[type="button"] {
 
 h1{
   background-color: rgb(160, 243, 52);
-  width: 45%;
+  
   
 }
